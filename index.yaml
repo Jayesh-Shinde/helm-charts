@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  spring-boot-payment-platform:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-09-21T17:39:16.712072+09:00"
+    description: A Helm chart for Kubernetes
+    digest: d7e28ab8f3f74125935360d01a8396149b4cb0c41564ee3533908185919f0e74
+    name: spring-boot-payment-platform
+    type: application
+    urls:
+    - https://github.com/Jayesh-Shinde/helm-charts.git/spring-boot-payment-platform-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-09-21T17:39:16.70933+09:00"
